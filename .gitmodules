@@ -803,3 +803,6 @@
 [submodule "vendor/grammars/language-fontforge"]
 	path = vendor/grammars/language-fontforge
 	url = https://github.com/Alhadis/language-fontforge
+[submodule "vendor/grammars/rascal-syntax-highlighting"]
+	path = vendor/grammars/rascal-syntax-highlighting
+	url = https://github.com/usethesource/rascal-syntax-highlighting
